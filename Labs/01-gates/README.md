@@ -1,11 +1,11 @@
 # Labs 1: Gates
 
 ## Logic functions
-![Logic Functions](Images/equations.png)
+![Logic Functions](Images/formulas.gif)
 
 ## EDA Playground Verification
-![EDA Playground Verification](Images/gates.gif)
-[EDA Playground link](https://www.edaplayground.com/x/8Lvx)
+![EDA Playground Verification](Images/gates.png)
+![EDA Playground link](https://www.edaplayground.com/x/8Lvx)
 
 ## Function table
 | **a** | **b** |**c** | **f(c,b,a)** |
