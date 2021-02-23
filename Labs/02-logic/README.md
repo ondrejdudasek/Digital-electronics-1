@@ -22,19 +22,24 @@
 
 # 2. 2 bit comparator
 ## B is greater than A
+### Karnaugh map
 ![B is greater than A](Images/kmap_greater_than_a.png)
 
+### Sum of powers
 ![SoP B is greater than A](Images/greater_than_A_sum_of_powers.png) 
 
 
 ## B equals A
+### Karnaugh map
 ![B equals A](Images/kmap_equals.png)
 
 
 ## B is less than A
+### Karnaugh map
 ![B is less than A](Images/kmap_less_than_a.png)
 
-![PoS B is less than A](Images/less_than_A_sum_of_powers.png)
+### Power of sums
+![PoS B is less than A](Images/less_than_A_power_of_sums.png)
 
 # 3. 
 ## design.vhdl
