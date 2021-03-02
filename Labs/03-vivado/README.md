@@ -2,7 +2,7 @@
 ## 1. Nexys A7
 ### Push switches
 | LABEL | FPGA PIN |
-| ===== | ======== |
+| ----- | -------- |
 |  SW0  |    J15   |
 |  SW1  |    L16   |
 |  SW2  |    M13   |
@@ -22,7 +22,7 @@
 
 ### LEDs
 | LABEL | FPGA PIN |
-| ===== | ======== |
+| ----- | -------- |
 |  LD0  |    H17   |
 |  LD1  |    K15   |
 |  LD2  |    J13   |
@@ -40,7 +40,6 @@
 |  LD14 |    V12   |
 |  LD15 |    V11   |
 
-Place table here
 ## 2. 2 bit 4 wide multiplexer
 ### mux_2bit_4to1.vhd
 ```` vhdl
