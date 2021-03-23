@@ -45,7 +45,7 @@ begin
     begin
         case hex_i is
             when "0000" => -- 0
-                seg_o <= "1111110";
+                seg_o <= "0000001";
             when "0001" => -- 1
                 seg_o <= "1001111";
             when "0010" => -- 2
