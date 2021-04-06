@@ -288,7 +288,7 @@ end process;
 ![JK Flip flop waveform](Images/jk_ff_rst.png)
 
 #### T flip flop with synchronized reset
-![T Flip flop waveform](Images/t_ff_rst.png)
+![T Flip flop waveform](Images/t_ff.png)
 
 ## Shift register schematics
 ![Shift register block schematics](Images/shift_register.jpg)

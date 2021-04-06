@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../traffic.srcs/sources_1/new/tlc.vhd" \
+"../../../../traffic.srcs/sources_1/new/top.vhd" \
+"../../../../traffic.srcs/sources_1/new/smart_traffic_fsm.vhd" \
+"../../../../traffic.srcs/sim_1/new/tb_tlc.vhd" \
+
+# Do not sort compile order
+nosort
